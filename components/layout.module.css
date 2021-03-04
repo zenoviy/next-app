@@ -1,0 +1,38 @@
+.container {
+  max-width: 36rem;
+  padding: 0 1rem;
+  margin: 3rem auto 6rem;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style: none;
+}
+.header li {
+  padding: 10px;
+}
+
+.headerImage {
+  width: 6rem;
+  height: 6rem;
+}
+
+.headerHomeImage {
+  width: 8rem;
+  height: 8rem;
+}
+
+.backToHome {
+  margin: 3rem 0 0;
+}
+
+.headerMenu {
+  background-color: rgb(244, 244, 244);
+}
+.headerMenu ul {
+  list-style: none;
+  margin: 0;
+}
+  
