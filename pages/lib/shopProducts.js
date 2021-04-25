@@ -13,7 +13,7 @@ const postsDirectory = path.join(process.cwd(), 'public/db/')
 } */
 
 
-const getAllProducts = async (id = 0) => {
+const getAllProducts = async (id = null) => {
     //fs.readFile()
 
     return new Promise((res) => {
@@ -21,7 +21,7 @@ const getAllProducts = async (id = 0) => {
 
         fs.readFile(fullPath, (err, data) => {
             if(err) return res({ productsAsObjects: null, HOST})
-            if(id) return res({ productsAsObjects: JSON.parse(data).find(item => item.id == id)})  
+            if(id || id == 0) return res({ productsAsObjects: JSON.parse(data).find(item => item.id == id)})  
             else  return res({ productsAsObjects: JSON.parse(data)})
         })
     })
@@ -49,6 +49,9 @@ const getAllProductsNames = async (id) => {
         })
     })
 }
+
+
+
 
 
 
