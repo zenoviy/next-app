@@ -2,7 +2,7 @@ import Link from "next/link"
 import Head from "next/head"
 import Layout from '../../components/layout'
 
-import { getAllUsersIds, getUsers } from '../lib/users'
+import { getAllUsersNames, getUsers } from '../lib/users'
 
 const SingleUser = ({ userData }) => {
     console.log(userData, userData.address)
@@ -30,7 +30,7 @@ export default SingleUser
 
 
 export async function getStaticPaths() {
-    const paths = await getAllUsersIds();
+    const paths = await getAllUsersNames();
     console.log(paths)
     return {
         paths,
@@ -38,7 +38,7 @@ export async function getStaticPaths() {
     }
 }
 export async function getStaticProps({ params }) { 
-    const user = await getUsers(params.id)
+    const user = await getUsers(params.name)
     return({
         props: {
             userData: user

@@ -1,13 +1,13 @@
 
 
 
-export async function getUsers(id) {
+export async function getUsers(name) {
     const allUsers = await fetch('https://jsonplaceholder.typicode.com/users');
     let convertedUsers = await allUsers.json()
-    return id ?  convertedUsers.find(user => user.id == id) : convertedUsers
+    return name ?  convertedUsers.find(user => user.name == name) : convertedUsers
 }
 
-export async function getAllUsersIds() {
+export async function getAllUsersNames() {
     return new Promise((response) => {
         fetch('https://jsonplaceholder.typicode.com/users')
         .then(data => data.json())
@@ -15,7 +15,7 @@ export async function getAllUsersIds() {
             response(data.map(user => {
                 return {
                     params: {
-                        id: user.id.toString()
+                        name: user.name.toString()
                     }
                 }
             }))

@@ -12,7 +12,7 @@ export default function UsersPage({ allUsers }) {
             {allUsers.map(user => {
                 return(
                     <li key={user.id}>
-                        <Link href={`/users/${user.id}`}>
+                        <Link href={`/users/${user.name}`}>
                             <a>
                                 <b>{user.name}</b><span>{user.username}</span>
                             </a>

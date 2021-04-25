@@ -29,3 +29,12 @@ main h1.title a {
     color: red !important;
     text-transform: uppercase;
 }
+
+.products-wrapper li {
+  width: calc(100% / 3);
+  padding: 5px;
+}
+.products-wrapper li img {
+  width: 100%;
+  height: 225px;
+}

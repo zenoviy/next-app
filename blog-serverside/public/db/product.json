@@ -1,0 +1,124 @@
+[
+    {
+        "id": 1,
+        "name": "AH-1 COBRA",
+        "title": "1981 BELL 209 AH-1 COBRA For Sale in Palm Beach, FL",
+        "shortDescription": "AH-1S Military Olive Drab Cobra Like New at Time of Sale Engines with >500 HRS Available All major components overhauled Airframe Family:Bell 209 / AH-1 Cobra Latest Model: AH-1S-BF Cobra ",
+        "price": "2173495",
+        "currency": "USD",
+        "image": [
+            "/images/ah-1/AH-1W_Super_Cobra_assigned_to_HMLA_167.jpg",
+            "/images/ah-1/a0a116b5294118248a88c32613760618.jpg",
+            "/images/ah-1/inside.jpg",
+            "https://i.pinimg.com/originals/25/c6/0d/25c60dce6c735964066ea8c870425066.jpg"
+        ],
+        "details": {
+            "status": "for sale",
+            "Condition": "Used",
+            "Year": 1981,
+            "Model": "209 AH-1 COBRA",
+            "Location": "Palm Beach, FL"
+        },
+        "detailDescription": "AH-1S Military Olive Drab Cobra Like New at Time of Sale Engines with >500 HRS Available All major components overhauled Airframe Family:Bell 209 / AH-1 Cobra Latest Model: AH-1S-BF Cobra The Bell AH-1 Converted to 209 (VFR/IFR) Capable,  Aircraft Reset/Upgrade Maintenance, GE T700 or Lycoming T53 Turbine Engine, Flight Director (Built in GTN 750H), (2) VHF/AM Comm Radios (GTR 225B) 1, VHF/FM Comm Radios (Built In GTN 750H), HF Digital Comm Radio, ADF Radio, Transponder (Mode C) (GTX345R), ELT (406 mhz) (Artex ELT 345 GPS/406), GPS (GTN 750H), Radar Altimeter, PitotCover 1EA, Engine Inlet Cover 1 EA, Engine Exhaust Cover 2 EA, Main Rotor Blade Tie Downs 1 Set of 2, Tail Rotor Blade Tie Down 1 EA, Sync Cover, Bracket Ground handling Wheels P/N BDW- 245B-1801 1 Set of Two, David Clark headsets 2 EA, The weight and balance statement, Acceptance Test Procedures (GATP), Inspection Services, Ferry Flight to Final Destination Facility, Delivery preparations : Coordination with Packaging and Shipping Firm, Review, Updating, and Sealing of All Aircraft Log Books and Information ",
+        "engine": "GE T700 or Lycoming T53 Turbine Engine "
+    },{
+        "id": 2,
+        "name": "B25-MITCHELL",
+        "title": "1945 NTH AME B-25J BETTY'S DREAM For Sale in Reno, NV",
+        "description": "LIMITED CATEGORY “BETTY’S DREAM” Oshkosh Golden Wrench Award Winner! 668 Hours since ground up restoration completed Dec 1998 by Aero Trader. Aircraft completely disassembled, all components and systems removed. Airframe stripped, media blasted and inspected. Repainted with epoxy tinted to match original. ",
+        "price": "2950000",
+        "currency": "USD",
+        "image": [
+            "/images/b25/IMG_0846-scaled.jpg",
+            "/images/b25/3dceb60c722b375475739892da08c46b.jpg",
+            "/images/b25/00-b25mitchell.jpg",
+            "/images/b25/b25_cockpit_1.jpg",
+            "/images/b25/b25_panel.jpg"
+        ],
+        "details": {
+            "status": "for sale",
+            "Condition": "Used",
+            "Year": 1945,
+            "Model": "B25-MITCHELL",
+            "Location": "Reno, NV"
+        },
+        "detailDescription": "RESTORATION DETAILS: Ground up restoration completed Dec 1998 by Aero Trader, Aircraft completely disassembled, all components and systems removed, Airframe stripped, media blasted and inspected. Repainted with epoxy tinted to match original"
+    },
+    {
+        "id": 3,
+        "name": "F-16 A/B",
+        "title": "1980 GENERAL DYNAMICS F-16 A/B For Sale in Palm Beach, FL",
+        "shortDescription": "1980 F-16 A/B Block 20 MLU Maximumspeed • Mach 2.05 at 40,000 feet • Service ceiling 55,000 feet • Maximum range 2400miles • Initial climb rate 62,000 feet per minute. ",
+        "price": "8500000",
+        "currency": "USD",
+        "image": [
+            "/images/f-16/F-16_June_2008.jpg",
+            "/images/f-16/a7a9b8f8bdee8e01671e745fb4a83dfc.jpg",
+            "/images/f-16/080610-F-2828D-980.JPG",
+            "/images/f-16/e2c7fb6f0031280a7a2356e28f2a34a1.jpg",
+            "/images/f-16/jetflight-simulator-melbourne.jpg"
+        ],
+        "details": {
+            "status": "for sale",
+            "Condition": "Used",
+            "Year": 1980,
+            "Model": "F-16 A/B",
+            "Location": "Palm Beach, FL"
+        },
+        "detailDescription": "Engine <br/> • One Pratt & Whitney F100-PW-200 turbofan, rated at 12,240 lb.s.t. dry, 14,670 lb.s.t. full military, and 23,830 lb.s.t. with afterburning <br/> • Maximumspeed  Mach 2.05 at 40,000 feet <br/> • Service ceiling 55,000 feet <br/> • Maximum range 2400miles <br/>• Initial climb rate 62,000 feet per minute.",
+        "engine": "One Pratt & Whitney F100-PW-200 turbofan, rated at 12,240 lb.s.t. dry, 14,670 lb.s.t. full military, and 23,830 lb.s.t. with afterburning"
+    },
+    {
+        "id": 4,
+        "name": "BEECHCRAFT 55 BARON",
+        "title": "1977 BEECHCRAFT 55 BARON For Sale in Scottsboro, AL",
+        "shortDescription": "1977 BEECHCRAFT 55 BARON For Sale in Scottsboro, AL",
+        "price": "185000",
+        "currency": "USD",
+        "image": [
+            "/images/beechcraft-55/baron-55-blackmac-Propellers-for-Sale.jpg",
+            "/images/beechcraft-55/BeechcraftBaron55_e2.jpg",
+            "/images/beechcraft-55/Jack3.jpg",
+            "/images/beechcraft-55/beeachcraft-55.jpg"
+        ],
+        "details": {
+            "status": "for sale",
+            "Condition": "Used",
+            "Year": 1977,
+            "Model": "BEECHCRAFT 55 BARON",
+            "Location": "Scottsboro, AL"
+        },
+        "detailDescription": "Right Engine changed at TBO due to owners request. During Engine change both props were overhauled at owners request. No know damage history. Part 91 aircraft maintained to Part 135 standards. <br/> LED Landing and Taxi Lights. Whelen Orion Wing Tip Lights. Vortex Generators. <br/> New Entry Door Seal, <br/> New Nose Baggage Door Seal, <br/> New Emergency Exit Window Seals. Sunshades for all windows included.",
+        "engine": "Right Engine changed at TBO due to owners request. During Engine change both props were overhauled at owners request. No know damage history. Part 91 aircraft maintained to Part 135 standards. LED Landing and Taxi Lights. Whelen Orion Wing Tip Lights. Vortex Generators. New Entry Door Seal, New Nose Baggage Door Seal, New Emergency Exit Window Seals. Sunshades for all windows included."
+    },
+    {
+        "id": 5,
+        "name": "1929 FORD 5-AT-C",
+        "title": "1929 FORD 5-AT-C TRIMOTOR For Sale in CA US",
+        "shortDescription": "This aircraft is serial number 74, the 155th Ford Tri-motor built. Its first flight was September 4, 1929. It operated as a Ford Motor Company factory demonstrator aircraft.",
+        "price": "1400000",
+        "currency": "USD",
+        "image": [
+            "/images/5-at-c/Ford-Tri-Motor.jpg",
+            "/images/5-at-c/Plane-fly.png",
+            "/images/5-at-c/_edited.webp",
+            "/images/5-at-c/eyJidWN.webp",
+            "/images/5-at-c/5-1.webp",
+            "/images/5-at-c/5-2.webp",
+            "/images/5-at-c/5-3.webp",
+            "/images/5-at-c/5-4.webp",
+            "/images/5-at-c/5-5.webp",
+            "/images/5-at-c/5-6.webp",
+            "/images/5-at-c/ford-trimotor-cockpit.jpg"
+        ],
+        "details": {
+            "status": "for sale",
+            "Condition": "Used",
+            "Year": 1929,
+            "Model": "5-AT-C TRIMOTOR",
+            "Location": "CA US"
+        },
+        "detailDescription": "History: This aircraft is serial number 74, the 155th Ford Tri-motor built. Its first flight was September 4, 1929. It operated as a Ford Motor Company factory demonstrator aircraft. During this period the aircraft was equipped with twin metal floats, accumulating 249 hours as a seaplane. In 1931, the aircraft operated under an experimental license due to the use of a modified triangular vertical stabilizer. On November 4, 1932 5-AT-74 was sold to Pan American Airways operating in the New York City area. In 1935, 5-AT-74 moved south of the border and began operations in Mexico City, for Cia Mexicana de Aviacion registered as XA-BCX and later XA-BKS. It came back to Pan American in 1936 and then back to Cia Mexicana de Aviacion. In May 1941, it moved further south to Guatemala operating for Cia Guatemalteca de Aviacion in Guatemala City. 5-AT-74 stayed in Guatemala operating as LGAFA until 1950. <br/><br/> Recovered by Robert Waltermire in March 1950, 5-AT-74 was returned to the United States and was reconditioned for use as an aerial sprayer fighting a grasshopper plague. At this time Northwest Agricultural Aviation Corp out of Choteau, Montana operated it. Between 1956 and 1959, 5-AT-74 had a series of owners before finally falling into dereliction and disrepair in Florida. 5-AT-74's salvation came at the hands of John and Katherine Louck of Monmouth, Illinois. When Louck found the aircraft in Florida, it was in less than pristine condition being described as 'full of frogs, snakes, bugs, etc.' He worked for two weeks cleaning and making the aircraft airworthy to ferry it to Monmouth, Illinois. A myriad of problems caused the trip to take 68 days covering 1,700 miles. Louck bought 5-AT-74 with the intention of barnstorming it, and he did! It was reported that in one year 5-AT-74 carried 17,000 passengers, 2,800 of which were carried in one five day period at Rockwell, Illinois. 5-AT-74 operated in this capacity until 1965. Louck carried a total of 100,000 passengers in 5-AT-74 while he owned it. During 1963, it was leased to TWA for a cross-country series of flights starting from Los Angeles, California to Newark, New Jersey. Total time in the air was 27 hours, 48 minutes and total en route was 54 hours, 7 minutes. In February 1965 Louck sold 5-AT-74 to American Airlines in New York City. 5-AT-74 was present at the New York City World's Fair in 1965. Between 1965 and 1977, 5-AT-74 went through several more owners and during 1983, was flown out of the San Fernando Airport by Art Scholl and Bernie Godlove during a brief movie career in which it appeared in the movie 'To Be or Not To Be', and was painted to represent a Ju-52. <br/><br/>  In 1977, 5-AT- 74 was acquired by John Seibold, then President and co-owner of Scenic Airlines and Grand Canyon Airlines and shortly afterward repeated its 1965 cross-country trek. This time it made the cross-country flight in company with a Scenic Airlines Twin Otter that was operating as a camera ship. Starting in Long Beach, California it flew to Las Vegas, Nevada. From there 5-AT-74 flew over Lake Mead and Hoover Dam and on to fly the length of the Grand Canyon. 5-AT-74 finished its cross-country trip in 7 days ending at New York's Kennedy Airport. While in New York, 5-AT-74 flew over New York Harbor and past the Twin Towers and the Statue of Liberty. Later it flew on to East Hartford, Connecticut to appear at Pratt and Whitney's 60th anniversary celebration before returning to Las Vegas, Nevada. In 2003 it participated on the National Air Tour and flew to 17 towns in 16 days and covered over 4,000 miles.",
+        "engine": "1:  16.5 SMOH by Aero Engines 2: <br/>  368.5 SMOH by Covington Engines  3:  287.3 SMOH by Aero Engines  Hamilton Standard two blade"
+    }
+]

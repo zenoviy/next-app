@@ -2,11 +2,27 @@ import Head from 'next/head'
 import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
+import FooterComponent from './footer'
 
 const name = 'Your Name'
 export const siteTitle = 'Next.js Sample Website'
 
 export default function Layout({ children, home }) {
+  const routerLinks = [
+    {
+      name: 'Home',
+      link: '/'
+    },{
+      name: 'Post 1',
+      link: '/posts/first-post'
+    },{
+      name: 'Users',
+      link: '/users/user-page'
+    },{
+      name: 'Shop',
+      link: '/shop/shop-page'
+    }
+  ];
   return (
     <div >
       <Head>
@@ -26,14 +42,16 @@ export default function Layout({ children, home }) {
       </Head>
       <header >
             <nav className={styles.headerMenu}>
-                <ul className={styles.header}>
-                    <li><Link href="/"><a>Home</a></Link></li>
-                    <li><Link href="/posts/first-post"><a>Post 1</a></Link></li>
-                    <li><Link href="/users/user-page"><a>Users</a></Link></li> 
+                <ul className={`${styles.header} ${styles.container}`}>
+                  {routerLinks.map((linkData, id) => {
+                    return(
+                      <li key={id}><Link href={linkData.link}><a>{linkData.name}</a></Link></li>
+                    )
+                  })}
                 </ul>
             </nav>
         {home ? (
-          <div className={styles.container}>
+          <div className={`${styles.container} ${styles.row}`}>
             <img
               src="/images/default_avatar.jpg"
               className={`${styles.headerHomeImage} ${utilStyles.borderCircle}`}
@@ -42,7 +60,7 @@ export default function Layout({ children, home }) {
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
           </div>
         ) : (
-          <div className={styles.container}>
+          <div className={`${styles.container} ${styles.row}`}>
             <Link href="/">
               <a>
                 <img
@@ -68,6 +86,7 @@ export default function Layout({ children, home }) {
           </Link>
         </div>
       )}
+      <FooterComponent />
     </div>
   )
 }
